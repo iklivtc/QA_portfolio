@@ -1,0 +1,2 @@
+Welcome to my QA portfolio! My name is Iryna Klivanets. I am a Middle Manual QA Engineer with experience in testing web and mobile applications, writing test documentation, and ensuring high product quality through detailed and thoughtful testing. 
+You can also find my CV and references in this repository.
