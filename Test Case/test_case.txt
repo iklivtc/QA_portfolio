@@ -1,0 +1,13 @@
+Title:	Verify successful login with valid credentials		
+			
+Pre-conditions:	The user is already registered in the system		
+			
+Steps:	Test Steps:	                 Expected Result:	
+			
+1	Open login page	                 Login page is loaded successfully	
+			
+2	Enter valid email address        Email is accepted without validation error	
+			
+3	Enter correct password	         Password is accepted without validation error	
+			
+4	Click “Login” button	         User is redirected to the main page is opened	
