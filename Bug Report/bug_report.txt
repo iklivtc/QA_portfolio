@@ -1,0 +1,19 @@
+Title:	User is unable to login with valid credentials		
+			
+Pre-conditions:	User account exists: testuser@gmail.com		
+			
+Steps to reproduce:			
+			
+1. Open the login page			
+			
+2. Enter valid email: testuser@gmail.com			
+			
+3. Enter password: testuser!			
+			
+4. Click on the Login button			
+			
+Expected Result:			
+User is logged in and system navigates to the main page.			
+			
+Actual result: 			
+The login and password fields are empty. The user remains on the login page. No error message is shown.			
